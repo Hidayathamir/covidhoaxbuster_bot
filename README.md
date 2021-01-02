@@ -1,4 +1,4 @@
-covidhoaxbuster_bot adalah bot telegram (@covidhoaxbuster_bot) yang dapat menampilkan segala hox berdasarkan website covid19.go.id
+covidhoaxbuster_bot adalah bot telegram (@covidhoaxbuster_bot) yang dapat "menampilkan segala hox berdasarkan website covid19.go.id"
 
 Step:
 1. Daftar bot baru dengan chat BotFather (@BotFather), setelah itu akan dapat token untuk mengakses bot.
